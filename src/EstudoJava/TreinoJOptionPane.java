@@ -25,7 +25,7 @@ public class TreinoJOptionPane {
 
 		while (!nome.equalsIgnoreCase("sair")) {
 			nome = JOptionPane.showInputDialog("Insira aqui seu nome: ");
-			System.out.println();
+			//System.out.println();
 
 			
 			
